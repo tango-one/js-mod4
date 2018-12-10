@@ -1,0 +1,72 @@
+
+1.    What is the DOM?
+
+
+	Answer:		DOM = "Document Object Model".
+			As the html page is loaded a web page page consists og head, body, etc these
+			is what we refer to when we say "DOM" as these can be manipulated by the developer.
+
+	Source: https://www.w3.org/DOM/
+		https://www.w3schools.com/js/js_htmldom.asp
+
+
+2.    List three methods to manipulate the DOM.
+
+	Answer:		
+
+	source:	https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents
+
+
+3.    What is an asynchronous call?
+
+	Answer:	When our code is running in javascript it will run trough the code as it is writen.
+		In a asynchronous call section of our code will wait to be executed in a spesific time.
+		
+
+	Source:	https://medium.freecodecamp.org/javascript-from-callbacks-to-async-await-1cc090ddad99
+
+
+4.    Briefly explain what the sources tab in Chromes Developers Tools does.
+
+
+	Answer:	When we press CTRL+I and select the "Source" tab we can see a tree structure of the site or doc we are
+		visting and we see here the source of the site.	
+
+
+5.    What is a JavaScript promise?
+
+
+	Answer:	Promise is code that "maybe" will produce a value somewhere in the future that can produce a action.
+		It can be of "fullfilled","Rejected", or "pending".
+
+		Source:	https://scotch.io/tutorials/javascript-promises-for-dummies <--- (please read this :) )
+		https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-promise-27fc71e77261
+
+6.    What is an API?
+
+
+
+	Answer:		API Or Apllication Program Interface.
+
+			We use API so get data from another source, lets say we build a weather app
+			then we can use a api from a weather service so we can deliver weather
+			stat in our app or site.
+
+
+
+7.    What is a JavaScript Event?
+
+
+	Answer:		Event is something that will happen in our code it can be a click-event so a action
+			that will take place after a user have clicked a button.		
+
+
+	Source:	https://developer.mozilla.org/en-US/docs/Web/Events
+
+
+8.    What is event bubbling?
+
+
+	Answer:		It describs when the event is called in our code.
+
+	Source:		https://www.sitepoint.com/event-bubbling-javascript/
