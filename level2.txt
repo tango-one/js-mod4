@@ -12,9 +12,13 @@
 
 2.    List three methods to manipulate the DOM.
 
-	Answer:		
+	Answer:	(1) - document.getelmentbyid			
+		(2) - document.getelmentbytagname
+		(3) - document.getelmentbyclassname
 
 	source:	https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents
+		https://www.w3.org/TR/DOM-Level-1/introduction.html
+		https://www.w3schools.com/js/js_htmldom_document.asp
 
 
 3.    What is an asynchronous call?
@@ -48,7 +52,7 @@
 
 	Answer:		API Or Apllication Program Interface.
 
-			We use API so get data from another source, lets say we build a weather app
+			We use API to get data from another source, lets say we build a weather app
 			then we can use a api from a weather service so we can deliver weather
 			stat in our app or site.
 
@@ -70,3 +74,4 @@
 	Answer:		It describs when the event is called in our code.
 
 	Source:		https://www.sitepoint.com/event-bubbling-javascript/
+
